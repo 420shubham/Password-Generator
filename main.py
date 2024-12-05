@@ -120,7 +120,7 @@ generate.grid(row = 3, column = 2)
 
 #Search Button
 
-search = Button(text="Search",width=17, command=search_password)
+search = Button(text="Search",width=15, command=search_password)
 search.grid(row=1, column=2)
 
 
